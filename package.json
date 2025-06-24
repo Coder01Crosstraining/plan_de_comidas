@@ -1,6 +1,7 @@
 {
   "name": "plan_de_comidas",
   "version": "0.1.0",
+  "proxy": "https://generativelanguage.googleapis.com",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
