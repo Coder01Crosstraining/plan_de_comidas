@@ -55,7 +55,8 @@ const foodData = {
             "Pechuga de pollo", "Perniles de pollo", "Hígado de res",
             "Carne de res", "Cerdo magro", "Pescado/Mariscos", 
             "Atún en lata", "Sardina en lata", "Huevos", "Quesos", "Cuajada", 
-            "Yogur griego (sin azúcar)", "Tofu", "Tempeh", "Seitan"
+            "Yogur griego (sin azúcar)", "Quinua", "Lentejas", "Garbanzos",
+            "Frijoles", "Tofu", "Tempeh", "Seitan"
         ],
         forLunchDinner: [
             "Pechuga de pollo", "Perniles de pollo", "Hígado de res",
@@ -63,10 +64,7 @@ const foodData = {
             "Atún en lata", "Sardina en lata", "Quinua", "Lentejas", "Garbanzos",
             "Frijoles", "Tofu", "Tempeh", "Seitan"
         ],
-        forBreakfast: ["Huevos", "Quesos", "Cuajada", 
-            "Pechuga de pollo", "Perniles de pollo", "Hígado de res", 
-            "Carne de res", "Cerdo magro", "Pescado/Mariscos", 
-            "Atún en lata", "Sardina en lata"]
+        forBreakfast: ["Huevos", "Quesos", "Cuajada", "Yogur griego (sin azúcar)"]
     },
     vegetables: { 
         title: "Verduras y Vegetales", 
